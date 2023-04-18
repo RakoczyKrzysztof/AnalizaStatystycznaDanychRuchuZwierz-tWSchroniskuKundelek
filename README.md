@@ -1,0 +1,2 @@
+# AnalizaStatystycznaDanychRuchuZwierz-tWSchroniskuKundelek
+Projekt zawierający obróbkę danych i ich analizę
